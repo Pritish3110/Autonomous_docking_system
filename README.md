@@ -632,13 +632,14 @@ Git LFS Integration for optimal repository performance
 
 
 
-
+```
 # Managed via Git LFS:
 ├── 🎥 *.mp4 files          # Simulation and demo videos
 ├── 📐 *.step files         # 3D CAD models  
 ├── 🖼️ High-res images      # Detailed documentation photos
 ├── 📊 *.xlsx files         # Analysis data and reports
 └── 📄 *.pdf files          # Technical documentation
+```
 
 
 
@@ -663,8 +664,6 @@ Empowering global medical device innovation
 ✅ Commercial Use
 ✅ Modification  
 ✅ Private Use
-❌ Distribution
-❌ Patent Use
 
 
 </td>
@@ -673,6 +672,8 @@ Empowering global medical device innovation
 ⚠️ Limitations
 
 
+❌ Distribution
+❌ Patent Use
 ❌ Warranty Not Provided
 ❌ Liability Not Assumed
 ℹ️ License Notice Required
@@ -705,3 +706,4 @@ Hackathon Winner • Medical Device Innovation • Clinical Excellence
 
 
 </div>
+
